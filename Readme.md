@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Дарья](https://up.htmlacademy.ru/htmlcss/25/user/306689).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Соболь] (https://htmlacademy.ru/profile/dominussobol).
 
 ---
 
